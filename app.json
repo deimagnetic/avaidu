@@ -1,5 +1,18 @@
-{
-  "expo": {
-    "sdkVersion": "25.0.0"
-  }
-}
+ {
+   "expo": {
+    "name": "Avaidu",
+    "icon": "./path/to/your/app-icon.png",
+    "version": "1.0.0",
+    "slug": "Random-bible-verses-on-Gods-love",
+    "sdkVersion": "25.0.0",
+    "ios": {
+      "bundleIdentifier": "net.samito.avaidu"
+    },
+    "android": {
+      "package": "net.samito.avaidu"
+    }
+   }
+ }
+
+
+
